@@ -1,0 +1,57 @@
+#title{
+    font-family: 'Festive', cursive; font-family: 'Parisienne', cursive; 
+    font-size: 3vw;
+    color: #9311B0;
+}
+
+#subtitle-index-header{
+    font-family: 'Festive', cursive;font-family: 'Parisienne', cursive;
+    font-size: 3vw;
+    color: #985DA5;
+}
+.btn-primary{
+    background-color: rgb(92, 3, 128) ;
+}
+.footer{
+    background-color: #4d045e;
+}
+
+#title-index_footer{
+    font-family: 'Festive', cursive; font-family: 'Parisienne', cursive; 
+    font-size: 2vw;
+    color: #ffffff;
+}
+
+#subtitle-index_footer{
+    font-family: 'Festive', cursive;font-family: 'Parisienne', cursive;
+    font-size: 2vw;
+    color: #ffffff;
+}
+
+.text-footer{
+    color: #ffffff;
+}
+.bg-copyright{
+    background-color: #985DA5;
+}
+
+.btn-color-bp{
+    background-color: #9311B0;
+    color: #ffffff;
+}
+.title-section{
+    font-size: 2vw;
+    font-family: 'Bebas Neue', cursive;
+}
+
+#title-login{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Rampart One', cursive;
+    
+}
+
+.subtitle-login{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Rampart One', cursive;
+font-family: 'Sawarabi Mincho', sans-serif;
+}
